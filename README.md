@@ -1,5 +1,5 @@
 # CyberProjects
-I am a highly motivated college student at Southern Illinois University Edwardsville (SIUE), maintaining a 3.51 GPA and majoring in [your major, e.g., Computer Science or Information Technology]. I have a strong foundation in Python, SQL, Linux, IT, and Cybersecurity, complemented by industry-recognized certifications including CompTIA Security+, Network+, Google Cybersecurity, and Excel Associate Certificate.
+I am a highly motivated college student at Southern Illinois University Edwardsville (SIUE), maintaining a 3.51 GPA and majoring in Business Administration Cybersecurity. I have a strong foundation in Python, SQL, Linux, IT, and Cybersecurity, complemented by industry-recognized certifications including CompTIA Security+, Network+, Google Cybersecurity, and Excel Associate Certificate.
 
 My technical skills are matched by my soft skills—teamwork, leadership, critical thinking, and effective communication. As project lead, I took the initiative to modernize a mock airspaces donation program for a college project, guiding my team from concept to execution. (View project details)
 
